@@ -1,4 +1,4 @@
-# mocha-browserstack
+# mocha-browserstack-1
 
 [Mocha](https://github.com/mochajs/mocha) Integration with BrowserStack.
 
